@@ -18,6 +18,7 @@ document.addEventListener("click", (e) => {
     offScreenMenu.classList.remove("active");
   }
 });
+
 const slides = document.querySelectorAll('.slide');
 const dots = document.querySelectorAll('.dot');
 let currentSlide = 0;
