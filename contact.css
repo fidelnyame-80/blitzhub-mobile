@@ -189,7 +189,7 @@ nav {
   /* Grid layout */
   .grid {
     display: grid;
-    grid-template-columns: 50% 50%; /* Two equal columns */
+    grid-template-rows: 50% 50%; /* Two equal columns */
     grid-template-rows: auto;
     gap: 2rem; /* Add spacing between grid items */
   }
